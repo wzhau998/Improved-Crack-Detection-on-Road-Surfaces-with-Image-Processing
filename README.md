@@ -5,7 +5,7 @@ Compare the effectiveness of the image classification with the influence of:
 * shadow removal
 * enlightenGAN
 
-The datasets were compared from raw (road_surface_raw), with shadow removal (road_surface_shadow), and with both shadow removal and enlightenGAN road_surface_processed:
+The datasets were compared from raw (road_surface_raw), with shadow removal (road_surface_shadow), and with both shadow removal and enlightenGAN (road_surface_processed):
 
 ![image](https://github.com/wzhau998/Improved-Crack-Detection-on-Road-Surfaces-with-Image-Processing/assets/137457605/856274da-687d-49fe-9906-a34c02856262)
 
